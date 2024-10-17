@@ -11,7 +11,7 @@
 | 3   | Nama Siswa 3        | [Belum/Menunggu/OK]| [Link Tugas 3](URL_Tugas_3)    |
 | 4   | Nama Siswa 4        | [Belum/Menunggu/OK]| [Link Tugas 4](URL_Tugas_4)    |
 | 5   | Zidan Rafli        | [OK]| [Link Tugas 5](https://github.com/zidan05172/tugas-app-placeholder-xiirpl1)    |
-| 6   | Nama Siswa 6        | [Belum/Menunggu/OK]| [Link Tugas 6](URL_Tugas_6)    |
+| 6   | Akhmad Akbar        | [Belum/Menunggu/OK]| [Link Tugas 6](https://github.com/ahmadakbarr/user_Data)    |
 | 7   | Nama Siswa 7        | [Belum/Menunggu/OK]| [Link Tugas 7](URL_Tugas_7)    |
 | 8   | Nama Siswa 8        | [Belum/Menunggu/OK]| [Link Tugas 8](URL_Tugas_8)    |
 | 9   | Nama Siswa 9        | [Belum/Menunggu/OK]| [Link Tugas 9](URL_Tugas_9)    |
